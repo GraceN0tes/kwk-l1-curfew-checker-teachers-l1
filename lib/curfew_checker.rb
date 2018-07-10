@@ -1,9 +1,9 @@
-# #if var == 10
-# print “Variable is 10”
-# elsif var == “20”
-# print “Variable is 20”
+# #if var == 11
+# print “Curfew is 11. You should be home!”
+# elsif var <= “11”
+# print “You should be home, but you have some time to spare! Good job!”
 # else
-# print “Variable is something else”
+# print “D”
 # end
 
 def simple_curfew_checker(time)
