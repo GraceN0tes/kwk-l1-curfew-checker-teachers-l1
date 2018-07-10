@@ -3,7 +3,7 @@
 # elsif var <= “11”
 # print “You should be home, but you have some time to spare! Good job!”
 # else
-# print “D”
+# print “Keep curfew in mind!”
 # end
 
 def simple_curfew_checker(time)
